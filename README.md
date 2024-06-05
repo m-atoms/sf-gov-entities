@@ -1,5 +1,11 @@
 A complete list of government entities for the City and County of San Francisco
 
+**Totals**
+- **Elected: 11**
+- **Boards and Commissions: 57**
+- **Departments: 52**
+- **Advisory: 69**
+
 Sources
 - Elected - [SF Charter](https://codelibrary.amlegal.com/codes/san_francisco/latest/sf_charter/0-0-0-502)
 - Boards/Commissions - [City Attorney's website](https://www.sfcityattorney.org/good-government/list-of-commissions-boards/)
