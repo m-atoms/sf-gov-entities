@@ -41,3 +41,5 @@ Note: The department head list in Campaign & Governmental Conduct Code Section 3
 - Department of Early Childhood, Executive Director
 - Early Childhood, Director
 - The department list removes this duplicate, will update pending response from City Attorney's office
+
+Note: Committee on Information Technology is listed as advisory on City Attorney website but I think they have powers more similar to a commission/board. Need to clarify
