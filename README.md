@@ -7,12 +7,12 @@ A complete list of government entities for the City and County of San Francisco
 - **Advisory: 69**
 
 ### Sources
-- Elected - [SF Charter](https://codelibrary.amlegal.com/codes/san_francisco/latest/sf_charter/0-0-0-502)
-- Boards/Commissions - [City Attorney's website](https://www.sfcityattorney.org/good-government/list-of-commissions-boards/)
-- Departments - [SF Campaign and Government Conduct Code](https://codelibrary.amlegal.com/codes/san_francisco/latest/sf_campaign/0-0-0-979)
-- Advisory - [City Attorney's wesbite](https://www.sfcityattorney.org/good-government/list-of-commissions-boards/)
+- [SF Charter](https://codelibrary.amlegal.com/codes/san_francisco/latest/sf_charter/0-0-0-502) (Elected, Boards/Commissions)  
+- [SF Campaign and Government Conduct Code](https://codelibrary.amlegal.com/codes/san_francisco/latest/sf_campaign/0-0-0-979) (Departments) 
+- [City Attorney's website](https://www.sfcityattorney.org/good-government/list-of-commissions-boards/) (Boards/Commissions, Advisory)
+- ["Commission Impossible" Civil Grand Jury Report](https://www.sf.gov/sites/default/files/2024-06/Commissions%20Impossible%20Report%20-%20FINAL%20VERSION%202024-05-30.pdf) (Boards/Commissions, Advisory)
 
-### Status Notes
+### Notes
 Note: The City Attorney's list of boards and commissions does not include the following:
 - City  advisory bodies created by the Mayor or a City agency but not created or approved through legislation.
 - Boards and commissions whose jurisdiction is not limited to the City, including:
