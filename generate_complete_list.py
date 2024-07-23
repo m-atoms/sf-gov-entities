@@ -18,7 +18,7 @@ def process_files():
     advisory = read_csv('sf_gov_advisory.csv')
 
     # Prepare output data
-    output = [['Elected', 'Elected, Legal Source', 'Boards and Commissions', 'Boards and Commissions, Legal Source', 
+    output = [['Elected', 'Elected, Legal Source', 'Commissions', 'Commissions, Legal Source', 
                'Department Heads', 'Departments', 'Departments, Legal Source', 'Advisory', 'Advisory, Legal Source']]
 
     # Process each file and add to output
